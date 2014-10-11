@@ -7,3 +7,6 @@ authors = ["HeroesGrave <heroesgrave@gmail.com>"]
 [dependencies.uuid]
 
 git = "https://github.com/rust-lang/uuid"
+
+[[bin]]
+name = "aspect_check"
